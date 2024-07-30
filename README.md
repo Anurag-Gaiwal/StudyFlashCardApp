@@ -1,4 +1,3 @@
-markdown
 # Flashcard Study App
 
 This Flashcard Study App is built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to create, view, and study flashcards to enhance their learning experience.
